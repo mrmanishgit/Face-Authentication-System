@@ -1,15 +1,19 @@
 Face Recognition
+-----------------------------
 A Java application for face recognition under expressions, occlusions and pose variations.
 
 Description:
+-----------------------------------------------------------
 This is a prototype with the goal of improving recognition accuracy and reliability under un-cooperative scenarios like expressions, occlusions (obstacles like spectacles) and pose variations (<60deg).
 
 The project is tested with Bosphorous Database (http://bosphorus.ee.boun.edu.tr/default.aspx).
 
 Running the project:
+-------------------------------------
 Install latest version of JDK.
 
 Install NetBeans.
+-------------------------------------------------
 
 Go to Control Panel->Add or Remove Programs(Uninstall Programs) and check any other databases are installed (e.g. Microsoft SQL or simply MySQL). If so, uninstall all.
 
@@ -30,9 +34,9 @@ Install Java 3D API(java3d_1_5...exe).
 Go to C:\Program Files\Java\Java3D\bin and copy all DLLs to C:\Windows [ONLY FOR 64 BIT SYSTEMS].
 
 Open System Tray->Wamp Server green icon->Left Click->MySQL->MySQL Console. Press Enter. You should see mysql> prompt.
-
+------------------------------------
 Enter the following commands:
-
+------------------------------------------------------------------------------
  
  create database 3dface;
  use 3dface;

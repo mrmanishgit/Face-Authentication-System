@@ -1,6 +1,9 @@
 Face Recognition
 -----------------------------
 A Java application for face recognition under expressions, occlusions and pose variations.
+![face](https://github.com/mrmanishgit/Face-Authentication-System/assets/157808382/90746b78-fa5c-44b0-aed5-d4307095a1d1)
+![bkd](https://github.com/mrmanishgit/Face-Authentication-System/assets/157808382/b653a84d-d700-4ba9-bf57-1cf69891a9b7)
+
 
 Description:
 -----------------------------------------------------------

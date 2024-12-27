@@ -46,6 +46,6 @@ Enter the following commands:
  create table users(UserName varchar(30),Email varchar(50),Phone varchar(10),Password varchar(20));
  exit;
  
-Again open system tray->Wamp green icon left click->phpMyAdmin. Browser will be opened. Database list on left side. Click on "3dface". You can see "users" table and get confirmed with the same.
+Again open system tray->Wamp green icon left click->tomcat 10.1. Browser will be opened. Database list on left side. Click on "3dface". You can see "users" table and get confirmed with the same.
 
 Run the project.
